@@ -13,7 +13,8 @@ IR Sensor + Remote – Allows remote input for added control and functionality.
 
 Modular Design – Easy to expand with additional sensors or outputs.
 
-
-![Display1](Display1.jpg)
-![Display2](Display2.jpg)
-![Display3](Display3.jpg)
+<p align="center">
+  <img src="Display1.jpg" alt="Display1" width="400"/>
+  <img src="Display2.jpg" alt="Display2" width="400"/>
+  <img src="Display3.jpg" alt="Display3" width="400"/>
+</p>
