@@ -1,5 +1,5 @@
 # Arduino-Project
-An Arduino-based project integrating an LCD display, stepper motor, RFID authentication, and IR remote control. The system demonstrates secure access with RFID, real-time feedback on an LCD screen, and additional functionality via an IR sensor and remote. I have attached the Arduino IDE code, a solidworks rendering, and a circuit diagram as files, additionally below, are pictures of the arduino system itself, the components, and a short demo of the system
+An Arduino-based project integrating an LCD display, stepper motor, RFID authentication, and IR remote control. The system demonstrates secure access with RFID, real-time feedback on an LCD screen, and additional functionality via an IR sensor and remote. Additionally, I utilized SolidWorks and a Bambulabs 3D printer to build the housing for this system. I have attached the Arduino IDE code, a solidworks rendering, and a circuit diagram as files, additionally below, are pictures of the arduino system itself, the components, and a short demo of the system
 
 Features
 
