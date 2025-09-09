@@ -20,7 +20,7 @@ Modular Design – Easy to expand with additional sensors or outputs.
 </p>
 
 <img src="Circuit Diagram.png" alt="Circuit Diagram" width="500"/>
-<img src="Solidworks Rendering.png" alt="Solidworks Rendering" width="500"/>
+<img src="SolidWorks Rendering.png" alt="SolidWorks Rendering" width="500"/>
 
 <p align="center">
   <a href="Display Video.mp4">Download / open the demo video</a>
