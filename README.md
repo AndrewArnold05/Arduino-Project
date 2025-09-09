@@ -20,7 +20,7 @@ Modular Design – Easy to expand with additional sensors or outputs.
 </p>
 
 <p align="center">
-  <video src="Display Video.mov" controls width="640">
+  <video src="Display Video.mp4" controls width="640">
     Your browser does not support the video tag.
   </video>
 </p>
